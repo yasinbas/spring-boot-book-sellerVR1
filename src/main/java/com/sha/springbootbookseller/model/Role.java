@@ -7,7 +7,7 @@ package com.sha.springbootbookseller.model;
  */
 public enum Role
 {
-    USER, //default
+    USER, //defaultt
     ADMIN, // admin manager, CRUD
     SYSTEM_MANAGER // internal operations.
 }
